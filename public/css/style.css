@@ -1,0 +1,21 @@
+.body{
+    background-color:#E3E9FF;
+    font-family:'Montserrat';
+}
+ul{
+    list-style: none;
+}
+li{
+    text-decoration: none;
+    background-color: #fff;
+    text-align: left;
+    padding-left: 10px;
+    color:#212529;
+        
+}
+
+.container-fluid{
+
+    padding-left: 200px;
+
+}
